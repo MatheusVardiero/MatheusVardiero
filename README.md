@@ -5,7 +5,7 @@
 
 Tenho 30 anos, formado em Análise e Desenvolvimento de Sistemas há 8 anos, nunca atuei diretamente na área de programação. Hoje, em 2022, decidi me aperfeiçoar no Desenvolvimento Web Front-end. Estou fazendo o curso Programador Full Stack Javascript da OneBitCode, Carrefour Web Developer Bootcamp da DIO, entre outros cursos. Novo por aqui!
 
-📫 E-mail: **matheusvardiero13@gmail.com**
+📫 **matheusvardiero13@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
