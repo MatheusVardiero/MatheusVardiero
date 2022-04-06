@@ -11,7 +11,7 @@
 <p align="left">
 <a href="https://twitter.com/matheustotti13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="matheustotti13" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/matheus-vardiero" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/matheus-vardiero" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/matheusvardiero13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/matheusvardiero13" height="30" width="40" /></a>
+<a href="https://www.facebook.com/matheusvardiero13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/matheusvardiero13" height="30" width="40" /></a>
 <a href="https://instagram.com/matheusvardiero_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="matheusvardiero_" height="30" width="40" /></a>
 </p>
 
