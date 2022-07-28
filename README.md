@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=matheusvardiero&label=Profile%20views&color=0e75b6&style=flat" alt="matheusvardiero" /> </p>
 
-Tenho 30 anos, formado em Análise e Desenvolvimento de Sistemas há 8 anos. Nesse ano de 2022, decidi me aperfeiçoar no Desenvolvimento Web Front-end. Estou fazendo os cursos Programador Full Stack Javascript da OneBitCode, Spread Fullstack Developer Bootcamp da DIO e treinamento Hiring Coders da Gama Academy e VTEX. Novo por aqui!
+Tenho 30 anos, formado em Análise e Desenvolvimento de Sistemas há 8 anos. Desenvolvedor Web, com conhecimento nas tecnologias: HTML, CSS, Javascript, Node.js, PHP, Mysql.
 
 📫 **matheusvardiero13@gmail.com**
 
