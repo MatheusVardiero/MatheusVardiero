@@ -1,9 +1,9 @@
 <h1 align="center">Oi, eu sou Matheus 👋</h1>
-<h3 align="center">Estou de volta à área de programação! Em constante aprendizado!</h3>
+<h3 align="center">Seja bem-vindo ao meu perfil!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=matheusvardiero&label=Profile%20views&color=0e75b6&style=flat" alt="matheusvardiero" /> </p>
 
-Tenho 30 anos, formado em Análise e Desenvolvimento de Sistemas há 8 anos. Desenvolvedor Web, com conhecimento nas tecnologias: HTML, CSS, Javascript, Node.js, PHP, Mysql.
+Formado em Análise e Desenvolvimento de Sistemas, com foco no Desenvolvimento Web Front-End. Tenho conhecimento nas tecnologias: HTML5, CSS3, Javascript, PHP, Mysql, Git/Github.
 
 📫 **matheusvardiero13@gmail.com**
 
