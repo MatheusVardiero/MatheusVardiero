@@ -20,5 +20,7 @@ Formado em Análise e Desenvolvimento de Sistemas, com foco no Desenvolvimento W
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=matheusvardiero&show_icons=true&locale=en&layout=compact" alt="matheusvardiero" /></p>
 
+<br>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=matheusvardiero&show_icons=true&locale=en" alt="matheusvardiero" /></p>
 
