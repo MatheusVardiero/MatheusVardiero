@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=matheusvardiero&label=Profile%20views&color=0e75b6&style=flat" alt="matheusvardiero" /> </p>
 
-Formado em Análise e Desenvolvimento de Sistemas, com foco no Desenvolvimento Web Front-End. Tenho conhecimento nas tecnologias: HTML5, CSS3, Javascript, PHP, Mysql, Git/Github.
+Formado em Análise e Desenvolvimento de Sistemas, com foco no Desenvolvimento Web. Tenho conhecimento nas tecnologias: HTML5, CSS3, Javascript, PHP, Mysql, Git/Github, Wordpress Elementor.
 
 📫 **matheusvardiero13@gmail.com**
 
